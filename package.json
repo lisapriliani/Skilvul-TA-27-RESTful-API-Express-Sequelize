@@ -1,0 +1,27 @@
+{
+  "name": "27-RESTful-API-Express-Sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisapriliani/Skilvul-TA-27-RESTful-API-Express-Sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisapriliani/Skilvul-TA-27-RESTful-API-Express-Sequelize/issues"
+  },
+  "homepage": "https://github.com/lisapriliani/Skilvul-TA-27-RESTful-API-Express-Sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "pm2": "^5.1.2",
+    "sequelize": "^7.0.0-alpha.2"
+  }
+}
